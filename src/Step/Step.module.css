@@ -1,0 +1,11 @@
+.mainGrid{
+    grid-area: c;
+    align-content: center;
+}
+
+.borderFrame {
+    display: inline-block;
+    width: 350px;
+    height: 550px;
+    border:1px solid midnightblue;
+}
